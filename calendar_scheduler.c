@@ -1,5 +1,4 @@
 /**
- * Assignment #1: Expressions and selection statements.
  * This program prints the schedule for a given date in the Fall'20 Semester of a Boston University CS Student.
  **/
 
